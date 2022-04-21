@@ -21,6 +21,7 @@ public class InitializeStoreItems {
         game.getGeneratorList().add(new Generator("Server", R.drawable.server_rack,"Love to have more servers", 103680, 1.12, 2160));
         game.getGeneratorList().add(new Generator("AI Assistant", R.drawable.robot_binary,"\"NULL POINTER AT: FIRST DIRECTIVE\"", 803680, 1.11, 25160));
 
+
         // KEY PRESS UPGRADES
         game.getUpgradeList().add(new Upgrade("New Keycaps", R.drawable.keycaps, "Keycaps Description", 75, CLICK_EFFICIENCY));
         game.getUpgradeList().add(new Upgrade("New Keycaps", R.drawable.keycaps, "Keycaps Description", 75, CLICK_EFFICIENCY));
